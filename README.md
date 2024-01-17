@@ -1,6 +1,6 @@
 # Display_Adversting_Causal_Analysis
 
-This project is based on the Harvard Business Case, and all project resources are attributed to it.
+*This project is based on the Harvard Business Case, and all project resources are attributed to it.*
 
 Case resource: https://hbsp.harvard.edu/product/M347-PDF-ENG
 
