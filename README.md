@@ -1,7 +1,7 @@
 # Display_Adversting_Causal_Analysis
 
 This project is based on the Harvard Business Case, and all project resources are attributed to it.
-https://hbsp.harvard.edu/product/M347-PDF-ENG
+case resource: https://hbsp.harvard.edu/product/M347-PDF-ENG
 
 ### Business Context
 Star Digital has identified a significant trend where a considerable portion of potential customers invests a substantial amount of their time in online activities. Moreover, there is a growing inclination among customers to consume media and make purchases through online channels. In response to this evolving landscape, Star Digital has been progressively increasing its allocation of advertising budget to online platforms, placing a particular emphasis on banner ads.
