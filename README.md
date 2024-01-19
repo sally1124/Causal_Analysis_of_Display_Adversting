@@ -1,4 +1,4 @@
-# Display_Adversting_Causal_Analysis
+# Causal Analysis of Display Advertising
 
 **This project is based on the Harvard Business Case, and all project resources are attributed to it.**
 
