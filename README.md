@@ -14,7 +14,7 @@ To better quantify the impact of display advertising on sales conversion, Star D
 2. Is there a frequency effect of advertising on purchase?
 3. Which sites should Star Digital prioritize for advertising?
 
-### Approach to Problem Resolution
+### Resolution Process
 In this project, we utilize the R programming language to execute a causal experiment to address previously outlined business problems. The systematic approach involves the following steps:
 
 1. **Dataset Exploration**: Ensure an even data distribution between the control and test groups.
